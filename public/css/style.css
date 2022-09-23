@@ -131,6 +131,12 @@ img {
   width: 1.4rem;
 }
 
+.border {
+  margin-top: 0.5rem;
+  width: 100%;
+  border: 0.001rem solid var(--neutral_line_dark_blue);
+}
+
 .card-creator {
   display: flex;
   align-items: center;
