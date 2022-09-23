@@ -95,6 +95,11 @@ img {
   font-family: var(--outfit_semiBold);
   font-size: var(--title_font_size);
   color: var(--neutral_white);
+  cursor: pointer;
+}
+
+.card-title:hover {
+  color: var(--primary_cyan);
 }
 
 .card-text {
@@ -144,4 +149,9 @@ img {
 
 .creator-name span {
   color: var(--neutral_white);
+  cursor: pointer;
+}
+
+.creator-name span:hover {
+  color: var(--primary_cyan);
 }
