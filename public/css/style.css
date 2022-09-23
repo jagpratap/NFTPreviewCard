@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* Colors */
+  --primary_soft_blue: hsl(215, 51%, 70%);
+  --primary_cyan: hsl(178, 100%, 50%);
+  --neutral_mainBg_dark_blue: hsl(217, 54%, 11%);
+  --neutral_cardBg_dark_blue: hsl(216, 50%, 16%);
+  --neutral_line_dark_blue: hsl(215, 32%, 27%);
+  --neutral_white: hsl(0, 0%, 100%);
+
+  /* Font family */
+  --outfit_semiBold: "Outfit, SemiBold";
+  --outfit_regular: "Outfit, Regular";
+  --outfit_light: "Outfit, Light";
+
+  /* Font size paragraph */
+  --para_font_size: 1.125rem;
+
+  /* Border radius */
+  --border_radius: 0.5rem;
+}
+
+body {
+  font-size: 1rem;
+  background-color: var(--primary_cream);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

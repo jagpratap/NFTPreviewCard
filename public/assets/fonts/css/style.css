@@ -1,0 +1,21 @@
+/*--------------------------OUTFIT--------------------------*/
+
+/* 600 */
+@font-face {
+  font-family: "Outfit, SemiBold";
+  src: url("../families/outfit/Outfit-SemiBold.ttf") format("truetype");
+}
+
+/* 400 */
+@font-face {
+  font-family: "Outfit, Regular";
+  src: url("../families/outfit/Outfit-Regular.ttf") format("truetype");
+}
+
+/* 300 */
+@font-face {
+  font-family: "Outfit, Light";
+  src: url("../families/outfit/Outfit-Light.ttf") format("truetype");
+}
+
+/*--------------------------OUTFIT--------------------------*/
