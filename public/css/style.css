@@ -31,7 +31,7 @@
 body {
   font-size: 1rem;
   background-color: var(--neutral_mainBg_dark_blue);
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
